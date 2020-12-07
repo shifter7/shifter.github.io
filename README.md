@@ -1,2 +1,1 @@
-# shifter.github.io
-My site
+My site is shifter.github.io
